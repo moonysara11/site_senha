@@ -2,7 +2,7 @@
 
 :root {
     --branco: white;
-    --cor-de-fundo: #0b4a8e;
+    --cor-de-fundo: #bd00ad;
     --fundo-senha: #0760c5;
     --fundo-texto: #9908ca;
     --borda: #0075FF;
@@ -132,16 +132,16 @@ label {
 
 .fraca {
     width: 25%;
-    background-color: #E71B32;
+    background-color: #cc1227;
 }
 
 .media {
-    background-color: #FAF408;
+    background-color: #fbf728;
     width: 50%;
 }
 
 .forte {
-    background-color: #00FF85;
+    background-color: #1ff68e;
     width: 100%;
 }
 
